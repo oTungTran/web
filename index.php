@@ -8,7 +8,7 @@
 <div class="start">
 <form action="connect.php" method="POST" accept-charset="utf-8">
 	
-User <imput type="text" name="username" value="" placeholder="username"/><br/>
+User <input type="text" name="username" value="" placeholder="username"/><br/>
 Password<input type="password" name="pass" value="" placeholder="**********"/><br/>
 <input type="submit" name="Login"/><br/>
 </form>
