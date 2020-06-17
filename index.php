@@ -10,7 +10,7 @@
 	
 User <input type="text" name="username" value="" placeholder="username"/><br/>
 Password<input type="password" name="pass" value="" placeholder="**********"/><br/>
-<input type="submit" name="Login"/><br/>
+<input type="submit" value="Login"/><br/>
 </form>
 </div>
 </body>
